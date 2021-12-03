@@ -1,5 +1,7 @@
 # JavaScript 工作坊 To Do List
 
+來自 [lumir1031](https://github.com/lumir1031)
+
 ## 專案準備及提交方式
 1. fork 此 repo 到自己的 Github ，並 git clone 到自己電腦
 2. 將 `master` 保護起來，禁止推 master branch
